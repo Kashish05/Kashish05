@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" height="270" width="150" >
 <ul>
 <li>👯 You will always find me upgrading myself.</li>
-<li>🤝 I am open to opportunities as <b>Full Stack Web Developer<b>.</li>
+<li>🤝 I am open to opportunities as <b>Full Stack Web Developer</b>.</li>
 <li>💬 Reach out to me at <a href="mailto: kashish.purswani0508@gmail.com">kashish.purswani0508@gmail.com</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
