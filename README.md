@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hii👋, I'm Kashish ![](https://c.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif)
 
 <!--
 **Kashish05/Kashish05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
