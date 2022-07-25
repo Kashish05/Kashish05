@@ -4,9 +4,11 @@
 
 <p>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" height="270" width="150" >
--👯 You will always find me upgrading myself.
--🤝 I am open to opportunities as **Full Stack Web Developer**.
--💬 Reach out to me at **kashish.purswani0508@gmail.com**.
+<ul>
+<li>👯 You will always find me upgrading myself.<li>
+<li>🤝 I am open to opportunities as <b>Full Stack Web Developer<b>.<li>
+<li>💬 Reach out to me at <a href="mailto: kashish.purswani0508@gmail.com">kashish.purswani0508@gmail.com</a><li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kashishpurswani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kashishpurswani" height="30" width="40" /></a>
