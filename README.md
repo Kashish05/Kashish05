@@ -29,9 +29,9 @@
 <img src="https://icon-library.com/images/git-icon/git-icon-28.jpg" alt="Git" width="40" height="40"/> 
 </p>
 </p>
-<span>
+<span align="left>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashish05&show_icons=true&locale=en" alt="kashishpurswani"
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kashish05&show_icons=true&locale=en" alt="kashishpurswani"
 </p>
 </span>
