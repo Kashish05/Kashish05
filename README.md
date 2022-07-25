@@ -1,4 +1,4 @@
-<h1 align="center">Hii👋, I'm Kashish Purswani!</h1>
+<h1 align="center">Hii👋, I'm Kashish Purswani! <img src="https://c.tenor.com/NqKn2UhXzU0AAAAi/get-greeting-say-hi.gif" width="100" height="40"/></h1>
 <h3 align="center">A Technophile: Competitive Programmer + Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashish05" alt="Kashish" /> </p>
@@ -13,7 +13,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center"> 
+<img src="https://icon-library.com/images/icon-programing/icon-programing-27.jpg" alt="C" width="40" height="40"/> 
+<img src="https://icon-library.com/images/game-developer-icon/game-developer-icon-5.jpg" alt="C++" width="40" height="40"/>  
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/>
+<img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="HTML" width="40" height="40"/> 
+<img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" alt="CSS" width="40" height="40"/>
+<img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JavaScript" width="40" height="40"/>
+<img src="https://icon-library.com/images/mit-icon/mit-icon-25.jpg" alt="TypeScript" width="40" height="40"/>
+<img src="https://icon-library.com/images/angularjs-icon/angularjs-icon-14.jpg" alt="Angular Js" width="40" height="40"/>
+<img src="https://icon-library.com/images/python-icon/python-icon-10.jpg" alt="Python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" alt="Jasmine Framework" width="40" height="40"/>
+<img src="https://icon-library.com/images/git-icon/git-icon-28.jpg" alt="Git" width="40" height="40"/> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" /></p>
 
