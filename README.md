@@ -1,6 +1,6 @@
 ### Hii👋, I'm Kashish!😄
-🌱 I’m currently exploring Web Development.
-🔭 I am into Competitive Programming and I love Problem Solving!
+### 🌱 I’m currently exploring Web Development.
+### 🔭 I am into Competitive Programming and I love Problem Solving!
 
 
 <!--
