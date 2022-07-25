@@ -1,7 +1,8 @@
 <h1 align="center">Hii👋, I'm Kashish Purswani!</h1>
 <h3 align="center">A Technophile: Competitive Programmer + Web Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashish05" alt="Kashish" /> </p>
+
+<p>
 <ul>
 <li>👯 You will always find me upgrading myself.</li>
 <li>🤝 I am open to opportunities as **Full Stack Web Developer**.</li>
@@ -28,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" alt="Jasmine Framework" width="40" height="40"/>
 <img src="https://icon-library.com/images/git-icon/git-icon-28.jpg" alt="Git" width="40" height="40"/> 
 </p>
-
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashish05&show_icons=true&locale=en" alt="kashishpurswani" /></p>
