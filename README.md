@@ -5,7 +5,7 @@
 
 - 👯 You will always find me upgrading myself.
 - 🤝 I am open to opportunities as **Full Stack Web Developer**.
-- 💬 Reach out to me at [**kashish.purswani0508@gmail.com**]
+- 💬 Reach out to me at **kashish.purswani0508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
 <img src="https://icon-library.com/images/icon-programing/icon-programing-27.jpg" alt="C" width="40" height="40"/> 
 <img src="https://icon-library.com/images/game-developer-icon/game-developer-icon-5.jpg" alt="C++" width="40" height="40"/>  
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/>
