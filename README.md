@@ -30,6 +30,7 @@
 <img src="https://icon-library.com/images/git-icon/git-icon-28.jpg" alt="Git" width="40" height="40"/> 
 </p>
 </p>
+<p>
 <table>
   <h3 align="left">Github Activity:</h3>
   <tr>
@@ -41,7 +42,6 @@
   <tr>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish05&theme=tokyonight"  display=block width=50% height=auto alt="3" >
   </tr><br />
-  <hr style="border:0.5px solid gray">
   <h3 align="left">Productivity Statistics:</h3>
   <tr>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashish05&theme=monokai"  display=block width=50% height=auto  alt="1" >
@@ -50,7 +50,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Kashish05&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=50% height=80% alt="3" >
   </tr><br />
 </table>
-
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashish05&show_icons=true&locale=en" alt="kashishpurswani" /></p>
