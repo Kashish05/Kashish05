@@ -42,13 +42,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish05&theme=tokyonight"  display=block width=50% height=auto alt="3" >
   </tr>
   <tr>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka001tech&theme=monokai"  display=block width=100% height=auto  alt="1" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashish05&theme=monokai"  display=block width=50% height=auto  alt="1" >
   </tr>
   <tr>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka001tech&theme=monokai"  display=block width=100% height=auto  alt="1" >
-  </tr>
-  <tr>
-    <img src="https://activity-graph.herokuapp.com/graph?username=priyanka001tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
+    <img src="https://activity-graph.herokuapp.com/graph?username=Kashish05&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=50% height=auto alt="3" >
   </tr>
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" /></p>
