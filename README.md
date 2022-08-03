@@ -35,7 +35,7 @@
 <table>
   <tr>
     <img src="https://github-readme-stats.vercel.app/api?username=Kashish05&theme=radical&show_icons=true"  display=block width=50% height=auto  alt="1">
-  </tr><br />
+  </tr>
   <tr>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish05&theme=radical&layout=compact"  display=block width=50% height=auto  alt="2" >
   </tr><br />
@@ -44,7 +44,7 @@
   </tr><br />
   <tr>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashish05&theme=monokai"  display=block width=50% height=auto  alt="1" >
-  </tr><br />
+  </tr>
   <tr>
     <img src="https://activity-graph.herokuapp.com/graph?username=Kashish05&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=50% height=auto alt="3" >
   </tr><br />
