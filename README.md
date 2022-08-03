@@ -42,7 +42,6 @@
   <tr>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish05&theme=tokyonight"  display=block width=50% height=auto alt="3" >
   </tr><br />
-  <h3 align="left">Productivity Statistics:</h3>
   <tr>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashish05&theme=monokai"  display=block width=50% height=auto  alt="1" >
   </tr>
