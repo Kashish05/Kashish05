@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kashishpurswani/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="kashishpurswani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kashishpurswani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kashishpurswani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,16 +33,16 @@
 <h3 align="left"Github Activity:</h3>
 <table>
   <tr>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kashish05&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kashish05&theme=radical&show_icons=true"  display=block width=50% height=auto  alt="1">
   </tr>
   <tr>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish05&theme=radical&layout=compact"  display=block          width=100% height=auto  alt="2" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish05&theme=radical&layout=compact"  display=block width=50% height=auto  alt="2" >
   </tr>
   <tr>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish05&theme=tokyonight"  display=block width=100% height=auto alt="3" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish05&theme=tokyonight"  display=block width=50% height=auto alt="3" >
   </tr> 
   <tr>
-    <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  display=block align="right" width="400px" height="250px">
+    <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  display=block width=50% width="400px" height="250px">
   </tr> 
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashish05&show_icons=true&locale=en&layout=compact" alt="kashishpurswani" /></p>
