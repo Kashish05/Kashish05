@@ -35,8 +35,6 @@
   <h3 align="left">Github Activity:</h3>
   <tr>
     <img src="https://github-readme-stats.vercel.app/api?username=Kashish05&theme=radical&show_icons=true"  display=block width=50% height=auto  alt="1">
-  </tr>
-  <tr>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish05&theme=radical&layout=compact"  display=block width=50% height=auto  alt="2" >
   </tr>
   <tr>
